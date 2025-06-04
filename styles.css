@@ -2,9 +2,15 @@ h1{
 color: orange;
 
 }
+.buttons{
+  justify-content: right;
+
+}
 body{
   background-color: blueviolet;
- 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
  
 }
 .add{
